@@ -4,9 +4,9 @@ ID = "18615"
 CANCEL_URL = "https://telegov.njportal.com/njmvc/AppointmentWizardConfirmation/ZVC291599/Edit"
 
 PROFILE = {
-"firstName" : "Suraj",
-"lastName" : "Bhardwaj",
-"email" : "yoddle29@gmail.com",
-"phone" : "6096657633",
-"birthDate" : "11/29/2003"
+"firstName" : "firstname",
+"lastName" : "lastname",
+"email" : "email@gmail.com",
+"phone" : "1234567890",
+"birthDate" : "11/11/1111"
 }
